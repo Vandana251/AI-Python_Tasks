@@ -1,4 +1,4 @@
-# AI & Python Institute Tasks
+# AI & Python Tasks
 
 Welcome to my repository! This repository contains details of the tasks and projects I completed during my training at the institute.
 
